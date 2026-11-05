@@ -28,3 +28,12 @@ To become a skilled Machine Learning Engineer and build real-world AI solutions.
 * GitHub: My GitHub Profile
 
 ⭐ Thanks for visiting my profile!
+## 🛠️ My Technical Skills
+
+![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-orange)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Learning-red)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github)
+![Docker](https://img.shields.io/badge/Docker-Learning-blue?logo=docker)
+![MLOps](https://img.shields.io/badge/MLOps-Learning-purple)
