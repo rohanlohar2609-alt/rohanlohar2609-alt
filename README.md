@@ -39,6 +39,6 @@ To become a skilled Machine Learning Engineer and build real-world AI solutions.
 ![MLOps](https://img.shields.io/badge/MLOps-Learning-purple)
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanlohar2609-alt&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rohanlohar2609-alt&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlohar2609-alt&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rohanlohar2609-alt&layout=compact&theme=tokyonight)
