@@ -37,3 +37,8 @@ To become a skilled Machine Learning Engineer and build real-world AI solutions.
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github)
 ![Docker](https://img.shields.io/badge/Docker-Learning-blue?logo=docker)
 ![MLOps](https://img.shields.io/badge/MLOps-Learning-purple)
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanlohar2609-alt&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlohar2609-alt&layout=compact&theme=tokyonight)
